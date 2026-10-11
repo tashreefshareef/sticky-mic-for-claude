@@ -39,4 +39,4 @@ https://github.com/tashreefshareef/sticky-mic-for-claude/blob/main/PRIVACY.md
 
 ## Assets
 - Store icon: icons/icon128.png
-- Screenshot(s): at least one 1280x800 or 640x400 PNG/JPEG (to add)
+- Screenshot: store/screenshot-1280x800.png
