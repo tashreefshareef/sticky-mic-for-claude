@@ -35,3 +35,6 @@ requests. See [PRIVACY.md](PRIVACY.md).
 
 ## Packaging for the Chrome Web Store
 Run `./package.sh` to build `dist/sticky-mic-for-claude-<version>.zip`.
+
+## License
+[MIT](LICENSE)
